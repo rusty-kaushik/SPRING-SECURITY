@@ -1,0 +1,4 @@
+package com.rusty.controller;
+
+public class NoticesController {
+}
